@@ -1,0 +1,7 @@
+/home/carlos/AppDevProjects/NetBeansProjects/clienteapi/src/main/java/com/example/clienteapi/ClienteApiApplication.java
+/home/carlos/AppDevProjects/NetBeansProjects/clienteapi/src/main/java/com/example/clienteapi/controller/ClienteController.java
+/home/carlos/AppDevProjects/NetBeansProjects/clienteapi/src/main/java/com/example/clienteapi/exception/ResourceNotFoundException.java
+/home/carlos/AppDevProjects/NetBeansProjects/clienteapi/src/main/java/com/example/clienteapi/model/Cliente.java
+/home/carlos/AppDevProjects/NetBeansProjects/clienteapi/src/main/java/com/example/clienteapi/repository/ClienteRepository.java
+/home/carlos/AppDevProjects/NetBeansProjects/clienteapi/src/main/java/com/example/clienteapi/service/ClienteService.java
+/home/carlos/AppDevProjects/NetBeansProjects/clienteapi/src/main/java/com/example/clienteapi/service/ClienteServiceImpl.java
